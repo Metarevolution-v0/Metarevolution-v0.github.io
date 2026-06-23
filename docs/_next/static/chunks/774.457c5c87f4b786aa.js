@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[774],{8393:e=>{e.exports=JSON.parse('{"1":{"id":1,"title":"Starterpack : Informatique (v0.1)","description":"Liste des logiciels, extensions, raccourcis clavier, etc. \xe0 connaitre."}}')}}]);

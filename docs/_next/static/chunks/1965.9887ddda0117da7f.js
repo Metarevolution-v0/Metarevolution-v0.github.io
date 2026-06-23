@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1965],{1965:e=>{e.exports=JSON.parse('{"1":{"id":1,"title":"Mission n\xb01 : Cr\xe9er l\'\xe9cole du futur","description":"Introduction du Nexus et des Starterpacks et mise en place d\'un groupe de travail pour cr\xe9er l\'\xe9cole du futur."}}')}}]);

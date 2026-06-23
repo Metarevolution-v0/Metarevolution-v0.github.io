@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1201],{1201:e=>{e.exports=JSON.parse('{"0":{"id":0,"title":"Introduction","description":""},"1":{"id":1,"title":"Chapter\xa01\xa0: Problem, Consciousness, Solution","description":""},"2":{"id":2,"title":"Chapter 2: The Content of Consciousness and the World of Ideas","description":""}}')}}]);

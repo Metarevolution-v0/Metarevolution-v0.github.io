@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[387],{387:t=>{t.exports=JSON.parse('{"1":{"id":1,"title":"Starter Pack: Office automation (v0.1)","description":"List of software, extensions, keyboard shortcuts, etc. you should know about."}}')}}]);

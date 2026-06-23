@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7321],{7321:t=>{t.exports=JSON.parse('{"id":2,"title":"Mission 2","description":"Une autre mission pour tester le syst\xe8me. Cette mission n\xe9cessite plus de participants.","content":{"html":"","toc":[],"footnotes":"","frontmatter":{}}}')}}]);

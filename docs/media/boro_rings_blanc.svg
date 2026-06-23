@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 625 600"
+	 style="enable-background:new 0 0 625 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:37.5;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:24;}
+</style>
+<title>Borromean Rings (basic monochrome depiction)</title>
+<g transform="translate(-12.5,588) scale(1,-1)">
+	<circle class="st0" cx="230.7" cy="206.8" r="187.5"/>
+	<circle class="st1" cx="230.7" cy="206.8" r="187.5"/>
+	<circle class="st0" cx="418.2" cy="206.8" r="187.5"/>
+	<circle class="st1" cx="418.2" cy="206.8" r="187.5"/>
+	<circle class="st0" cx="418.2" cy="206.8" r="187.5"/>
+	<circle class="st1" cx="418.2" cy="206.8" r="187.5"/>
+	<circle class="st0" cx="324.5" cy="369.2" r="187.5"/>
+	<circle class="st1" cx="324.5" cy="369.2" r="187.5"/>
+	<path class="st0" d="M182.2,387.9c-31.8-8.5-60.8-25.3-84.1-48.5 M411.8,158.3c4.2,15.8,6.4,32.1,6.4,48.5
+		c0,16.4-2.1,32.7-6.4,48.5"/>
+	<path class="st1" d="M185.4,388.7c-34.1-8.5-65.1-26.4-89.5-51.7 M411,155.1c4.8,16.8,7.3,34.2,7.3,51.7c0,17.5-2.4,34.9-7.3,51.7"
+		/>
+</g>
+</svg>
